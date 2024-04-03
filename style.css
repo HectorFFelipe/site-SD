@@ -82,3 +82,13 @@ padding: 30px 40px;
 font-size: 20px;
 }
 
+.paragrafocert {
+  font-size: 20px;
+  color: #333;
+  line-height: 1.5;
+  text-align: justify;
+  padding: 40px;
+  background-color: #e9e8e8;
+  border-radius: 10px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
